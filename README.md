@@ -1,2 +1,2 @@
 # AdventOfCode
-My Advent of Code attempts
+My [Advent of Code](https://adventofcode.com/) attempts.
